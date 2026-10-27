@@ -1,16 +1,18 @@
-## Hi there 👋
+<h2 align="center">👋 Hi, I'm Kenneth</h2>
 
-<!--
-**chenran71ran-oss/chenran71ran-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://home.chenran71ran.cc">Home Lab</a> ·
+  <a href="https://github.com/chenran71ran-oss">GitHub</a>
+</p>
 
-Here are some ideas to get you started:
+I'm interested in **web development, AI, and large language models**. I enjoy exploring open-source projects and building practical tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Building and customizing web applications and self-hosted services
+- 🤖 Exploring AI applications, LLMs, and agents
+- 📚 Learning about Transformers, model training, and inference
+
+**Selected projects**
+
+- [Home Lab](https://github.com/chenran71ran-oss/dashy) — a customized dashboard based on Dashy
+- [Subscription Monitor](https://github.com/chenran71ran-oss/subscription-monitor) — a dashboard for subscription and node monitoring
+- [GitHub Discovery](https://github.com/chenran71ran-oss/github-discovery) — exploring trending open-source projects
