@@ -13,5 +13,5 @@ I enjoy exploring open-source projects and building useful web tools.
 I'm learning about Transformers, LLMs, and AI agents.
 
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="GitHub Octocat" width="140">
+  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="GitHub Octocat" width="100">
 </p>
